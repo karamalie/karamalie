@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+My code didnt make it to the arctic. So im gonna sneak it into Elons Mars project or something
 //TODO : Update this readme file
 <!--
 **karamalie/karamalie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
