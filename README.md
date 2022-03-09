@@ -19,7 +19,8 @@ Stuff i built
 - Lottie Theming library
 - LottieFiles Design System
 - LottieFiles React UI Kit 
-- 
+- Lottie interactivity library
+
 Stuff i worked on 
 
 - Lottie AE plugin
