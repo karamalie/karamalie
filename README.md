@@ -1,18 +1,24 @@
 ### Hi there 👋
 
-My code didnt make it to the arctic. So im gonna sneak it into Elons Mars project or something
-//TODO : Update this readme file
-<!--
-**karamalie/karamalie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Developer from the Maldives
+ex-CTO at MyBump Media
+Senior Software Developer @ Lottiefiles
 
-Here are some ideas to get you started:
+Stuff i built
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Lottie editor
+- LottieFiles Figma plugin
+- Lottie Theming library
+- LottieFiles Design System
+- LottieFiles React UI Kit 
+- 
+Stuff i worked on 
+
+- Lottie AE plugin
+- The LottieFiles website
+- Lottie svelte player
+- Lottie react player
+- Lottie vue player
+- Lottie interactivity library
+- Lottie JS object model
+- Lottie web player
