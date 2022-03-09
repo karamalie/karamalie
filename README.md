@@ -4,6 +4,10 @@ Software Developer from the Maldives
 ex-CTO at MyBump Media
 Senior Software Developer @ Lottiefiles
 
+What i do?
+
+- i write typescript, build node libraies, i also do front-end work with tailwind and shit. used to do devops, did geospatial data visualisation for some time, im quite handy. people generally use me like a swiss army knife i think.
+
 Stuff i built
 
 - Lottie editor
