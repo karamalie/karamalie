@@ -1,7 +1,11 @@
 ### Hi there 👋
 
 Software Developer from the Maldives
+
+BSC of Software Engineering from Staffordshire University 
+
 ex-CTO at MyBump Media
+
 Senior Software Developer @ Lottiefiles
 
 What i do?
