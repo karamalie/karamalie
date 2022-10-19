@@ -10,7 +10,7 @@ Senior Software Developer @ Lottiefiles
 
 What i do?
 
-- i write typescript, build node libraies, i also do front-end work with tailwind. used to do devops, did geospatial data visualisation for some time, im quite handy. people generally use me like a swiss army knife i think.
+- i write typescript, build node libraies, i also do front-end work with tailwind. used to do devops, did geospatial data visualisation for some time.
 
 Stuff i built
 
