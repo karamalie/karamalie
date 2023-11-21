@@ -15,7 +15,7 @@ What i do?
 Stuff i built
 
 - Lottie editor
-- LottieFiles Figma plugin
+- [LottieFiles Figma plugin](figma.com/community/plugin/809860933081065308/lottiefiles)
 - Lottie Theming library
 - LottieFiles Design System
 - LottieFiles React UI Kit 
