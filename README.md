@@ -12,7 +12,7 @@ Senior Software Developer @ Lottiefiles
 
 - i write typescript, build node libraies, and do mostly front-end work but not limited to it
 
-**Stuff i built and heavily contributed to**
+**Stuff i built and/or heavily contributed to**
 
 Web 
 
