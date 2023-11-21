@@ -8,11 +8,11 @@ ex-CTO at MyBump Media
 
 Senior Software Developer @ Lottiefiles
 
-What i do?
+**What i do?**
 
 - i write typescript, build node libraies, and do mostly front-end work but not limited to it
 
-Stuff i built and heavily contributed to
+**Stuff i built and heavily contributed to**
 
 Web 
 
