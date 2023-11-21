@@ -29,6 +29,7 @@ Plugins
 Open Source
 - [Lottie web player](https://github.com/LottieFiles/lottie-player)
 - [Lottie react player](https://www.npmjs.com/package/@lottiefiles/react-lottie-player)
+- [DotLottie Player](https://github.com/dotlottie/player-component)
 - [Lottie interactivity library](https://github.com/LottieFiles/lottie-interactivity)
 - [Lottie vue player](https://www.npmjs.com/package/@lottiefiles/vue-lottie-player)
 - [Lottie svelte player](https://www.npmjs.com/package/@lottiefiles/svelte-lottie-player)
