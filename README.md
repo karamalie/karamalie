@@ -10,7 +10,7 @@ Senior Software Developer @ Lottiefiles
 
 **What i do?**
 
-- i write typescript, build node libraies, and do mostly front-end work but not limited to it
+- i write typescript, build node libraies, and do both front-end and back-end work but mostly front-end for the past two years.
 
 **Stuff i built and/or heavily contributed to**
 
