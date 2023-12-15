@@ -6,7 +6,7 @@ BSC of Software Engineering from Staffordshire University
 
 ex-CTO at MyBump Media
 
-Senior Software Developer @ Lottiefiles
+ex-Senior Software Developer @ Lottiefiles & Part of the founding team
 
 **What i do?**
 
