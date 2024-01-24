@@ -2,7 +2,7 @@
 
 Software Developer from the Maldives
 
-BSC of Software Engineering from Staffordshire University 
+BSC of Software Engineering from Staffordshire University(UK)
 
 ex-CTO at MyBump Media
 
