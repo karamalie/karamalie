@@ -34,4 +34,5 @@ Open Source
 - [Lottie vue player](https://www.npmjs.com/package/@lottiefiles/vue-lottie-player)
 - [Lottie svelte player](https://www.npmjs.com/package/@lottiefiles/svelte-lottie-player)
 - [Lottie JS object model](https://github.com/LottieFiles/lottie-js)
+- [LottieFiles VScode Plugin](https://lottiefiles.com/plugins/visual-studio-code)
 
