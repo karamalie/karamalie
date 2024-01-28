@@ -12,6 +12,9 @@ ex-Senior Software Developer @ Lottiefiles & Part of the founding team
 
 - i write typescript, build node libraries, and do both front-end and back-end work but mostly front-end for the past three years.
 
+**Tech-Stack & Experience?**
+- NextJS, React, Typescript,TailwindCSS, GraphQL, Node, Express, Docker, Rollup, Vite, PostgreSQL, Turbo
+
 **Stuff i built and/or heavily contributed to**
 
 Web 
