@@ -39,3 +39,6 @@ Open Source
 - [Lottie JS object model](https://github.com/LottieFiles/lottie-js)
 - [LottieFiles VScode Plugin](https://lottiefiles.com/plugins/visual-studio-code)
 
+NPM Packages i built or contributed to [Click me](https://www.npmjs.com/~karamalie)
+
+
