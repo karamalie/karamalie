@@ -41,7 +41,4 @@ Open Source
 
 NPM Packages i built or contributed to [Click me](https://www.npmjs.com/~karamalie)
 
-Public Stats
-[![Karamalies Public Stats](https://github-readme-stats.vercel.app/api?username=karamalie)](https://github.com/anuraghazra/github-readme-stats)
-
 
