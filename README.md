@@ -8,6 +8,8 @@ ex-CTO at MyBump Media & Part of the founding team
 
 ex-Senior Software Developer @ Lottiefiles & Part of the founding team
 
+Front-end Lead @ Tria
+
 **What i do?**
 
 - i write typescript, build node libraries, and do both front-end and back-end work but mostly front-end for the past three years.
