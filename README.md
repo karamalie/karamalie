@@ -23,13 +23,10 @@ Web
 - [The LottieFiles app](https://app.lottiefiles.com/)
 - LottieFiles Design System (private repo)
 - LottieFiles React UI Kit (private repo)
-  
-Plugins
+- [Tria demo](https://tria-demo-staging.vercel.app/) 
 
-- [LottieFiles Figma plugin](figma.com/community/plugin/809860933081065308/lottiefiles) (454k users)
-- [Lottie AE plugin](https://exchange.adobe.com/apps/cc/103642/lottiefiles-for-after-effects)
-  
 Open Source
+  
 - [Lottie web player](https://github.com/LottieFiles/lottie-player) (6.4 million npm downloads)
 - [Lottie react player](https://www.npmjs.com/package/@lottiefiles/react-lottie-player) (7.3 million npm downloads)
 - [DotLottie Player](https://github.com/dotlottie/player-component) (1.9 million npm downloads)
@@ -38,6 +35,18 @@ Open Source
 - [Lottie svelte player](https://www.npmjs.com/package/@lottiefiles/svelte-lottie-player)
 - [Lottie JS object model](https://github.com/LottieFiles/lottie-js)
 - [LottieFiles VScode Plugin](https://lottiefiles.com/plugins/visual-studio-code)
+
+
+Web3 Ecosystem
+- [Tria SDK (Web Component)](https://www.npmjs.com/package/@tria-sdk/authenticate-web)
+- Tria React SDK(React SDK) - in progress
+  
+Plugins
+
+- [LottieFiles Figma plugin](figma.com/community/plugin/809860933081065308/lottiefiles) (454k users)
+- [Lottie AE plugin](https://exchange.adobe.com/apps/cc/103642/lottiefiles-for-after-effects)
+  
+
 
 NPM Packages i built or contributed to [Click me](https://www.npmjs.com/~karamalie)
 
