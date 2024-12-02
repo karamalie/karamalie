@@ -41,7 +41,7 @@ Open Source
 
 Web3 Ecosystem
 - [Tria SDK (Lit Elements SDK)](https://www.npmjs.com/package/@tria-sdk/authenticate-web)
-- [Tria React SDK(React SDK)](https://www.npmjs.com/package/@tria-sdk/authenticate-web)
+- [Tria React SDK(React SDK)](https://www.npmjs.com/package/@tria-sdk/authenticate-react)
   
 Plugins
 
