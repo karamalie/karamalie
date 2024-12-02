@@ -8,7 +8,7 @@ ex-CTO at MyBump Media & Part of the founding team
 
 ex-Senior Software Developer @ Lottiefiles & Part of the founding team
 
-Front-end Lead @ Tria
+Front-end dev @ Tria
 
 **What i do?**
 
