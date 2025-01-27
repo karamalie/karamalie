@@ -49,7 +49,4 @@ Plugins
 - [Lottie AE plugin](https://exchange.adobe.com/apps/cc/103642/lottiefiles-for-after-effects)
   
 
-
-NPM Packages i built or contributed to [Click me](https://www.npmjs.com/~karamalie)
-
 **One day im going to stop writing code and become a fisherman or farmer**
